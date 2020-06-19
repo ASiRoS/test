@@ -6,10 +6,15 @@
 
 1) npm install
 2) composer install
-1) npm run dev
+3) npm run dev
 
 Далее нужно будет запустить сервер:
 1) php artisan serve
+
+Опционально:
+1) Настроить .env для работы с БД
+2) php artisan migrate
+
 
 Далее можно будет увидеть результат работы.
 
